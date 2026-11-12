@@ -1,0 +1,6 @@
+br\dev\lionn\dukemarket\javafx\App.class
+br\dev\lionn\dukemarket\javafx\SecondaryController.class
+br\dev\lionn\dukemarket\javafx\controller\MenuPrincipalController.class
+module-info.class
+br\dev\lionn\dukemarket\javafx\model\Produto.class
+br\dev\lionn\dukemarket\javafx\PrimaryController.class

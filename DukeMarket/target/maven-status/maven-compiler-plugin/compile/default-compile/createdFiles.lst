@@ -1,0 +1,4 @@
+br\dev\lionn\dukemarket\dao\ProdutoDAO.class
+connection\MySQLConnection.class
+br\dev\lionn\dukemarket\DukeMarket.class
+br\dev\lionn\dukemarket\bean\Produto.class
